@@ -12,5 +12,10 @@ li{
   font-size: 30px;
 }
 .pet{
-  background-color: #A22C12;
+  background-color: #515836;
+  padding: 1px;
+}
+.dog{
+  background-color: #969F74;
+  padding: 1px;
 }
